@@ -20,7 +20,7 @@ Si revisamos la siguiente imagen, al extremo derecho, veremos un recuadro que di
 ![Sugerencia](assets/img/Comentarios.png)
 
 6. Al Ingresar a la pagína de youtube, en el extremo derecho superior, podemos verificar algunos iconos el cual tendría la funcionalidad del elemento **UI** dado que es un tipo de navegación y las imagenes que podamos elegir como foto de perfil tienen un efecto border-radius el cual se produce mediante _user interface o JS_ pero a la vez, vemos el elemento **UX** ya que los iconos le ayudan al usuario a entender para que sirven sin tener algo escrito. Por ejemplo, vemos que el icono que contiene la flecha hacia arriba es para _subir_ un video; El que le sigue, cual tiene varios recuadros pequeños, nos indica opciones para busquedas adicionales de youtube al usuario; El tercero (la campanita) son notificaciones que el usuario recibe; Y el ultimó icono, con una imagen redondeada, se sobrentiende que es el perfil personal del usuario
-![Navegación](assets/img/Comentarios.png)
+![Navegación](assets/img/Extra_info.png)
 
 Esto a sido mi breve definición  de User eXperience y User Inteface.
 
