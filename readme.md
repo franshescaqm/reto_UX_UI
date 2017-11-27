@@ -5,10 +5,10 @@ En este reto de codigo vamos a  navegar la pagina de Youtube e Indicar las parte
 En este ejemplo podemos ver el elemento local para poder buscar videos de la preferencia del usuario; Este elemento pertenece a UI ya que sería creado por un tipo de elemento input.
 
 2. En este navegador vertical podemos ver un claro ejemplo de ambas especialidades: **UX y UI**; El motivo del cual es **UX** es porque le da al cliente una lista de opciones directas sobre videos anteriormente vistos y guardados, y no la incomodidad de andar buscando algo que tienen en la sección del historial. Esto se combina con **UI** ya que el historia y menu de navegación (hamburguesa) están compuestos por _inputs_ y _anchors (enlaces)_:
-![navegación vertical](assets/img/Navegación.png)
+![navegación vertical](assets/img/Navegacion.png)
 
 3. La sección de videos se considería como **UX** dado que el sistema me sugiera vídeos que me podrían gustar según con videos parecidos que he visto anteriormente:
-![Recomendaciones](assets/img/Recomendación.png)
+![Recomendaciones](assets/img/Recomendacion.png)
 
 4. ![Videos sugeridos](assets/img/Videos.png)
 Si revisamos la siguiente imagen, al extremo derecho, veremos un recuadro que dice **UX** dado que el sistema me sugiere de una manera mas directa, videos parecidos al cual yo estoy viendo en ese mismo instante; ademas podemos observar que dentro del recuadro de **UX** se encuentra **UI** dado que la opción _autoplay_ es creado con UI para luego despues crearle funcionalidad con un lenguaje de programación.
